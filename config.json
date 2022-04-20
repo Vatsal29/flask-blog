@@ -1,0 +1,18 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/blogdb",
+    "prod_uri": "mysql://root:@localhost/blogdb",
+    "fb_url": "https://www.facebook.com/RealMadrid",
+    "tw_url": "https://twitter.com/realmadrid",
+    "blog_name": "Books on Religion",
+    "gmail-user": "vatsalbhatt860@gmail.com",
+    "gmail-password": "zola_odrio_mey@ng",
+    "about_text": "Hi I am a noob and I love to read about religion",
+    "no_of_posts": 3,
+    "admin_user": "vatsal",
+    "admin_password": "gameready",
+    "login_panel": "Login"
+  }
+}
